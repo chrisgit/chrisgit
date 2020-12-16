@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hey, I'm Chris a keen software developer of over 35 years!
+
+Easy going, good to get along with I encourage growth, creativity and fun.
+
+Stay tuned, this home page is currently work in progress.
 
 <!--
 **chrisgit/chrisgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
